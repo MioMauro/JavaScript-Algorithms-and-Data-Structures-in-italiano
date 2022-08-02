@@ -55,7 +55,7 @@ var myName = "il tuo nome";
 
 Crea due nuove variabili stringa: myFirstName e myLastName e assegna loro rispettivamente i valori del tuo nome e cognome.
 var myFirstName = "mauro"
-var myLastName = "veronese"
+var myLastName = "vero"
 ---
 Comprensione delle variabili non inizializzate
 Quando le variabili JavaScript vengono dichiarate, hanno un valore iniziale di undefined. Se esegui un'operazione matematica su una variabile non definita, il tuo risultato sarà NaN che significa "Non un numero". Se concateni una stringa con una variabile undefined, otterrai una stringa di undefined.
